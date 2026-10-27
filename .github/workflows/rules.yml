@@ -1,0 +1,13 @@
+name: rules
+
+on:
+  push:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  rules:
+    uses: ronsin-lss/org-workflows/.github/workflows/rule-checks.yml@main
