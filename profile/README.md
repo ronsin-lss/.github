@@ -1,4 +1,9 @@
-# Ronsin Litigation Support Services
+<h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="title-dark.svg">
+  <img src="title-light.svg" alt="Ronsin Litigation Support Services" height="40">
+</picture>
+</h1>
 
 Internal tools and automation built to support our operations — developed in-house by the Ronsin team.
 
